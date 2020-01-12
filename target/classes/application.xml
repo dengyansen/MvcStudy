@@ -3,5 +3,5 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
         <bean class="java.util.Date" id="date"></bean>
-        <bean class="com.yansen.TestController" name="/test"></bean>
+        <bean name="/test" class="com.yansen.springMvcDemo.TestController" ></bean>
 </beans>

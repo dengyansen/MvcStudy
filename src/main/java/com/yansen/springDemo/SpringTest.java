@@ -1,4 +1,4 @@
-package com.yansen;
+package com.yansen.springDemo;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
